@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Table2</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/table.css">
+</head>
+
+<nav role="navigation" class="navbar navbar-default navbar-fixed-top">
+  <p class="header"> FALL PROTECTION COMPLAINCE GAP ANALYSIS</p>
+  <span class="glyphicon glyphicon-user"> Inspector:Mr Johan Breytenbach, SHEQ Manager</span>
+
+  </div>
+  <div class="bottom">
+
+    <p class="safe">SAFETY COMPLIANCE AUDIT</p>
+    <span class="glyphicon glyphicon-map-marker"> <b>Site:</b> Parrow Industrial Bottling Plant </span>
+  </div>
+  <img class="imageTop" src="images/main.png">
+</nav>
+<br><br>
+<div class="ContainerFluidTable">
+
+  <div class="row">
+
+
+    <div class="col-md-5 col-sm-5 col-xs-5">
+      <label style="margin-left: 10px;">LOCATION(S)</label>
+      <br>
+      <select name="fontType" id="fontType" class="form-control">
+                <option value="">Select Option</option>
+                <option value="">Company: Employees and Contractors</option>
+                <option value=""> Vehicle maintenance.</option>
+                <option value=""> Signwriting off site.</option>
+                <option value="">Soda fountain installers off site.</option>
+                <option value=""> Yard</option>
+                <option value=""> Security checkpoint</option>
+                <option value=""> Offsite at customer's premises</option>
+                <option value="8" selected="8"> Bottling plant</option>
+                <option value=""> Water plant</option>
+            </select>
+    </div>
+
+    <div class="col-md-5 col-sm-5  col-xs-5">
+
+      <br>
+      <input id="bottom" type="text" class="form-control mariginOnsear" placeholder="Or manually type in location |">
+    </div>
+
+
+  </div>
+  <div class="row">
+    <div class="col-md-5 col-sm-5  col-xs-5">
+      <label style="margin-left: 10px;">CATEGORIES</label>
+      <br>
+      <select name="fontVariant" id="fontVariant" class="form-control">
+                <option value="">Select Option</option>
+                <option> Risk Assessments</option>
+                <option>Fail Protection Plan / Procedure/ Policy </option>
+                <option> Implementation Plan</option>
+                <option>Monitoring Plan Review Plan Medical Fitness</option>
+                <option> behavioural Safety training & Compentence</option>
+                <option> Permit to Work at Height</option>
+                <option> Collective Control</option>
+                <option> Low Height</option>
+                <option>Safe Working procedures</option>
+                <option value="8"selected="8">Equipment Standards & Specifications</option>
+                <option>Personal fail</option>
+
+            </select>
+    </div>
+    <div class="col-md-5 col-sm-5  col-xs-5">
+
+      <br>
+      <input type="text" class="form-control mariginOnsear" placeholder="Or manually type in location |">
+    </div>
+    <div class="row">
+
+      <br />
+      <div class="col-xs-2 col-sm-2 col-md-2"> <a href="table.html">  <button class="btn btn-sm btn-success auditbtn" type="submit" id="audit">AUDIT</button></a></div>
+    </div>
+  </div>
+  <hr>
+
+  <br>
+  <div class="displayB"><b>Location</b>: Boiling plant</div>
+  <div class="displayB"><b>Category</b>: Low Heights</div>
+  <div class="main displayB"> <img src="images/Layer 5.png "></div>
+  <div class="main displayB"><img src="images/Layer 6.png"></div>
+  <div class="main displayB"><img src="images/Layer 7.png"><i class="material-icons" style="font-size:24px;color:red;vertical-align:top;margin-left:-1%;">info</i>
+    </i>
+
+    </span>
+  </div>
+
+  <div class="">
+
+    <table class="table table-bordered">
+
+
+      <thead style="background-color: #212121;color:#ffffff;">
+        <tr>
+          <th class="class=" center vertical-align-middle-text text-left "">
+            AUDIT CHECK LIST - QUESTIONNAIRE & [OBSERVATIONS]
+
+          </th>
+          <th class="center vertical-align-middle-text text-left">COMPLIANT</th>
+          <th class="center vertical-align-middle-text text-left">
+            CORRECTIVE MEASURES
+          </th>
+          <th style="text-align:left;">FRS / POLICY SHORTCOMINGS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <p>1. Which controls are used to protect employees and contractors when working on low structures? [Observe access to a low height]</p>
+          </td>
+
+          <td scope="row">
+
+            <div id="#siteInfo"> <label>Yes </label>
+              <input style="vertical-align:middle" type="checkbox" class="daysCheckbox4" name="">
+              <Br>
+            </div>
+
+
+            <div id="#siteInfo"> <label style="margin-left: 7%;">No </label>
+              <input style="vertical-align:middle" type="checkbox" class="daysCheckbox4" name="" checked>
+              <Br>
+            </div>
+          </td>
+
+          <td>
+
+
+            <p style="color:grey;font-size:12px;"> Suggestion; Provide equipment and training to Contractors and Employees who work at low heights inside the bottling plant, including training in the use of the</p>
+
+            <br>
+            <br><b>Type Your correctives measures</b>
+            <br>
+            <textarea class="form-control" rows="5" id="comment"></textarea>
+          </td>
+
+          <th>
+            <p>Low height work risk and controls must be defined to provide clear instructions</p>
+            <textarea class="form-control" rows="5" id="comment"></textarea>
+          </th>
+
+    </table>
+
+  </div>
+
+  <a href="table3.html"><button class="btn btn-sm btnsave" type="submit" id="complete">SAVE</a></button>
+</div>

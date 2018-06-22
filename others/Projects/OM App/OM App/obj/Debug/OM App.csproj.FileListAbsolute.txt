@@ -1,0 +1,163 @@
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\ApplicationInsights.config
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\roslyn\csc.exe
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\roslyn\vbc.exe
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\roslyn\VBCSCompiler.exe
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\OM App.dll.config
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\OM App.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\OM App.pdb
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Antlr3.Runtime.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\EntityFramework.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\EntityFramework.SqlServer.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.AI.Web.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.Owin.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.Owin.Security.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Newtonsoft.Json.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Owin.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\System.Web.Helpers.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\System.Web.Mvc.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\System.Web.Optimization.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\System.Web.Razor.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\System.Web.WebPages.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\System.Web.WebPages.Razor.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\WebGrease.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.AI.Web.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\System.Web.Helpers.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\System.Web.Mvc.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\System.Web.Optimization.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\System.Web.Razor.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\System.Web.WebPages.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\System.Web.WebPages.Razor.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Antlr3.Runtime.pdb
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Newtonsoft.Json.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\EntityFramework.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\EntityFramework.SqlServer.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.Owin.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.Owin.Security.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\obj\Debug\OM App.dll
+C:\Users\mandy\documents\visual studio 2015\Projects\OM App\OM App\obj\Debug\OM App.pdb
+R:\Clients\Mandy\Projects\OM App\OM App\bin\ApplicationInsights.config
+R:\Clients\Mandy\Projects\OM App\OM App\bin\roslyn\csc.exe
+R:\Clients\Mandy\Projects\OM App\OM App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\roslyn\Microsoft.CodeAnalysis.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\roslyn\Microsoft.CSharp.Core.targets
+R:\Clients\Mandy\Projects\OM App\OM App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+R:\Clients\Mandy\Projects\OM App\OM App\bin\roslyn\System.Collections.Immutable.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\roslyn\System.Reflection.Metadata.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\roslyn\vbc.exe
+R:\Clients\Mandy\Projects\OM App\OM App\bin\roslyn\VBCSCompiler.exe
+R:\Clients\Mandy\Projects\OM App\OM App\bin\roslyn\VBCSCompiler.exe.config
+R:\Clients\Mandy\Projects\OM App\OM App\bin\OM App.dll.config
+R:\Clients\Mandy\Projects\OM App\OM App\bin\OM App.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\OM App.pdb
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Antlr3.Runtime.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\EntityFramework.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\EntityFramework.SqlServer.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.AI.Agent.Intercept.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.AI.DependencyCollector.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.AI.PerfCounterCollector.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.AI.Web.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.AI.WindowsServer.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.ApplicationInsights.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.AspNet.Identity.Core.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.AspNet.Identity.Owin.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.Owin.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.Owin.Host.SystemWeb.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.Owin.Security.Cookies.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.Owin.Security.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.Owin.Security.Facebook.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.Owin.Security.Google.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.Owin.Security.OAuth.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.Owin.Security.Twitter.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.Web.Infrastructure.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Newtonsoft.Json.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Owin.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\System.Web.Helpers.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\System.Web.Mvc.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\System.Web.Optimization.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\System.Web.Razor.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\System.Web.WebPages.Deployment.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\System.Web.WebPages.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\System.Web.WebPages.Razor.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\WebGrease.dll
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.AI.DependencyCollector.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.AI.ServerTelemetryChannel.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.AI.Web.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.AI.WindowsServer.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.ApplicationInsights.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\System.Web.Helpers.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\System.Web.Mvc.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\System.Web.Optimization.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\System.Web.Razor.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\System.Web.WebPages.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\System.Web.WebPages.Deployment.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\System.Web.WebPages.Razor.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Antlr3.Runtime.pdb
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Newtonsoft.Json.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\EntityFramework.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\EntityFramework.SqlServer.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.AspNet.Identity.Core.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.AspNet.Identity.Owin.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.Owin.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.Owin.Host.SystemWeb.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.Owin.Security.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.Owin.Security.Facebook.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.Owin.Security.Cookies.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.Owin.Security.OAuth.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.Owin.Security.Google.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.Owin.Security.Twitter.xml
+R:\Clients\Mandy\Projects\OM App\OM App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+R:\Clients\Mandy\Projects\OM App\OM App\obj\Debug\OM App.dll
+R:\Clients\Mandy\Projects\OM App\OM App\obj\Debug\OM App.pdb
+R:\Clients\Mandy\Projects\OM App\OM App\obj\Debug\OM App.csprojResolveAssemblyReference.cache

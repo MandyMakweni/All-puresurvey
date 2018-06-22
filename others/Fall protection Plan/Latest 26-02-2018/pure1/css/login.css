@@ -1,0 +1,76 @@
+.card-container.card {
+  max-width: 450px;
+  margin-top: 200px;
+}
+
+.btn {
+  font-weight: 700;
+  height: 36px;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  cursor: default;
+  color: #ffffff;
+  background-color: #00B0FF;
+}
+
+
+
+a {
+  text-align: center;
+  color: #ffffff;
+}
+
+a:hover, a:active, a:focus {
+  color: #ffffff;
+}
+
+.card {
+  background-color: #ECEFF1;
+  padding: 20px 25px 30px;
+  margin: 0 auto 25px;
+  margin-top: 50px;
+  border-radius: 15px;
+  border-bottom: 15px solid #212121;
+}
+
+img {
+  margin-top: -260px;
+}
+
+.btn.btn-signin {
+  background-color: #00B0FF;
+  padding: 0px;
+  font-weight: 700;
+  font-size: 24px;
+  height: 70px;
+  margin-top: 30px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 10px;
+  -o-transition: all 0.218s;
+  -moz-transition: all 0.218s;
+  -webkit-transition: all 0.218s;
+  transition: all 0.218s;
+}
+
+.header {
+  color: #757575;
+  font-size: 20px;
+  text-align: center;
+}
+
+.instruction {
+  color: #000000;
+  font-size: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+}
+
+#footer {
+  text-align: center;
+}
